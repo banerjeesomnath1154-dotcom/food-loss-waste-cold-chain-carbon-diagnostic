@@ -62,3 +62,12 @@ food-loss-waste-cold-chain-carbon-diagnostic/
 1. Python Environment: Run the Jupyter Notebook in `notebooks/01_food_loss_waste_analysis.ipynb`.
 2. SQLite Database: Query the relational database `data/food_loss_carbon.db`.
 3. Excel Workbook: Open `excel/flw_carbon_payback_reconciliation.xlsx`.
+
+---
+
+## 👤 Author & Contact
+* **Author:** Somnath Banerjee
+* **Role:** Aspiring Agri-Business Analyst & Geospatial BI Specialist
+* **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
+* **GitHub:** https://github.com/banerjeesomnath1154-dotcom
+* **Gmail:** banerjeesomnath1154@gmail.com
