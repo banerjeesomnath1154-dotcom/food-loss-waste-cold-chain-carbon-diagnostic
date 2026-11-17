@@ -1,0 +1,5 @@
+supply_chain_node,total_shipments,total_initial_tonnage,total_spoilage_tonnage,avg_loss_pct,total_financial_loss_inr,total_ghg_loss_ton_co2e,avg_ambient_temp,avg_reefer_temp
+Cold Storage Warehouse,221,4949.77,421.3,8.4,39842590.0,670.66,29.4,5.0
+Farmgate Loading & Transit,338,7572.16,1137.52,15.03,116214910.0,1898.41,35.5,22.8
+Packhouse Sorting & Grading,269,5886.53,625.8,10.56,63635040.0,1034.03,31.9,13.7
+Port / Terminal Distribution,172,3917.54,474.59,12.14,46204450.0,778.99,33.6,7.8
